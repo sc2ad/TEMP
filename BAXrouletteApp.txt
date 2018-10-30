@@ -1,0 +1,57 @@
+﻿Goal: Implement a discord bot that will run a script rolling the 4 options below with a simple text command
+FORMAT: ALL LABELS ARE NEWLINES AFTER THREE DASH MARKS
+ALL OPTIONS ARE BULLET POINTS
+THIS DOCUMENT IS UPLOADED TO THE BOT EVERY 24 HOURS, AT 10PM PST, OR WHEN I FEEL LIKE IT
+FOR THE TIME BEING, ADDING NEW CARDS WILL NOT DO ANYTHING. PLEASE PM @Sc2ad#8836 ON DISCORD FOR CARD SUGGESTIONS (OR ANYTHING, REALLY)
+---
+Start (This is what the participant must build after commander landing)
+* Bot factory
+* Air factory
+* Vehicle factory
+* Teleporter
+* Storages (1 of each type)
+* All-chat the entire alphabet in order
+---
+Objectives (Main objective to kill an enemy commander)
+* Interplanetary Dox/Slammer Rush (Unit Cannon OK)
+* Carpet Nukes
+* Bomber Snipe
+* Omega Snipe
+* Laser Plat (SXX) Snipe
+* Inferno/Vanguard Snipe
+* Manhattan drop 
+* Hallies
+* Catalyst
+* Boom bots
+* TITANS (Including Rag)
+* Icarus Snipe
+* Reclaim Kill
+* Colonels
+---
+Obstacles (Hurdles in which the participant cannot use during the game)
+* No Jigs
+* No Metal planet mexes
+* No Moon mexes
+* No Anti-Nuke
+* No Teleporters (Helios OK)
+* No T2 Air Fabs
+* No T2 Vehicle Fabs
+* No T2 Bot Fabs
+* No Unit Cannons
+* No Scouts or Radar (orbital radar OK)
+* Every factory has area patrol as its rally- Micro Mayhem!
+---
+Cards (A Last hurrah to switch the game up with other participants)
+* Block
+* Reroll
+* Copy
+* Swap Cards
+* Trade Objectives
+* Trade Obstacles
+* Trade Start
+* Cherrypick Start
+* Cherrypick Objective
+* Cherrypick Obstacle
+* Curse Start
+* Curse Objective
+* Curse Obstacle
