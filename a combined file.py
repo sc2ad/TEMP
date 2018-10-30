@@ -1,4 +1,6 @@
 import discord
+import random
+from collections import Counter
 
 client = discord.Client()
 
@@ -148,7 +150,10 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    global stats
+    global stats, status
+    if not message.server:
+        print("A message was DM'd from: <@"+message.author.id+">: "+message.content)
+        return
     if message.content.startswith(pfx[message.server.id]+'reset'):
         msg = reset(message)
         msgs = []
